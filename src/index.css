@@ -19,7 +19,7 @@
     --transition: all 400ms ease;
     --container-width-lg:75%;
     --container-width-md:86%;
-    --container-width-ms:90%;
+    --container-width-sm:90%;
 }
 html{
     scroll-behavior:smooth;
@@ -51,7 +51,8 @@ section{
     margin-top: 8rem;
 }
 
-section > h2,section >h5{
+section > h2,
+section >h5{
     text-align:center;
     color:var(--color-light);
 }
@@ -93,12 +94,21 @@ img{
     width:100%;
     object-fit: cover;
 }
-/*=======================Media queries(medium devices=============================*/
+/*=======================Media queries(medium devices)=============================*/
 @media screen and (max-width: 1024px) {
     .container{
         width:var(--container-width-md);
     }
     section{
         margin-top: 6rem ;
+    }
+}
+/*=======================Media queries(small devices)=============================*/
+@media screen and (max-width: 600px) {
+    .container{
+        width:var(--container-width-sm);
+    }
+    section > h2{
+        margin-bottom: 2rem ;
     }
 }
