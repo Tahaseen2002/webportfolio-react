@@ -20,7 +20,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>6+months Working</small>
+              <small>1+ year Working</small>
             </article>
             <article className='about__card'>
               <HiUsers className='about__icon' />
@@ -34,7 +34,7 @@ const About = () => {
             </article>
           </div>
           <p>Completed my graduation from IIIT Nuzivid in CSE (2023).Did internship in frontend technologies like html,css,Javascript and Reactjs have
-            experience working with API's ,can handle version control Git .Have 6 months of experience working as a full-time front end developer
+            experience working with API's, can handle version control Git. Have 1 year experience, working as a full-time full stack developer 
             handled projects and have ability to learn new technologies and improve my skills.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
