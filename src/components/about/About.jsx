@@ -36,8 +36,8 @@ const About = () => {
 
           </div>
           <p> Software Engineer with 2+ years of experience delivering scalable SaaS solutions using 
-  React.js, Next.js, NestJS, and MongoDB. Proven expertise in building REST APIs, Gmail-style 
-  email clients, secure authentication, and responsive dashboards. Strong background in full-stack 
+  React.js, Next.js, NestJS, and MongoDB.IProven expertise in building REST APIs, Gmail-style 
+  email clients, secure authentication, and responsive dashboards, landing pages. Strong background in full-stack 
   development, API integration, and cloud deployments (GCP, Vercel, DigitalOcean). Passionate about 
   building impactful, user-centric products and continuously learning new technologies.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
