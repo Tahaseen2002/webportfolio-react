@@ -31,12 +31,12 @@ const About = () => {
             <article className='about__card'>
               <HiUsers className='about__icon' />
               <h5>Client</h5>
-              <small>Worked with multiple clients (SaaS & Enterprise apps)</small>
+              <small>Worked with multiple clients</small>
             </article>
             <article className='about__card'>
               <BsFillFolderFill className='about__icon' />
               <h5>Project</h5>
-              <small>10+ completed (SaaS, HRMS, Portals, Chatbots)</small>
+              <small>10+ completed </small>
             </article>
           </div>
           <p> Software Engineer with 2+ years of experience delivering scalable SaaS solutions using 
