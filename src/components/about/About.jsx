@@ -33,11 +33,7 @@ const About = () => {
               <h5>Client</h5>
               <small>Worked with multiple clients</small>
             </article>
-{/*             <article className='about__card'>
-              <BsFillFolderFill className='about__icon' />
-              <h5>Project</h5>
-              <small>10+ completed </small>
-            </article> */}
+
           </div>
           <p> Software Engineer with 2+ years of experience delivering scalable SaaS solutions using 
   React.js, Next.js, NestJS, and MongoDB. Proven expertise in building REST APIs, Gmail-style 
