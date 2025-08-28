@@ -20,22 +20,24 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>2+ year Working</small>
+              <small>2+ years (Full Stack Development)</small>
             </article>
             <article className='about__card'>
               <HiUsers className='about__icon' />
               <h5>Client</h5>
-              <small>one client</small>
+              <small>Worked with multiple clients (SaaS & Enterprise apps)</small>
             </article>
             <article className='about__card'>
               <BsFillFolderFill className='about__icon' />
               <h5>Project</h5>
-              <small>2+completed</small>
+              <small>10+ completed (SaaS, HRMS, Portals, Chatbots)</small>
             </article>
           </div>
-          <p>Completed my graduation from IIIT Nuzivid in CSE (2023).Did internship in frontend technologies like html,css,Javascript and Reactjs have
-            experience working with API's, can handle version control Git. Have 1 year experience, working as a full-time full stack developer 
-            handled projects and have ability to learn new technologies and improve my skills.</p>
+          <p> Software Engineer with 2+ years of experience delivering scalable SaaS solutions using 
+  React.js, Next.js, NestJS, and MongoDB. Proven expertise in building REST APIs, Gmail-style 
+  email clients, secure authentication, and responsive dashboards. Strong background in full-stack 
+  development, API integration, and cloud deployments (GCP, Vercel, DigitalOcean). Passionate about 
+  building impactful, user-centric products and continuously learning new technologies.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
