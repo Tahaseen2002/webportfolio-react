@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assests/Resume-tahaseen.pdf';
+import CV from '../../assests/tahaseen_Resume__2YOE_.pdf';
 const Links = () => {
   return (
     <div className="Links">
