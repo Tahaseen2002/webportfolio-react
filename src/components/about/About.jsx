@@ -18,6 +18,12 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
+  <FaAward className='about__icon' />
+  <h5>Education</h5>
+  <small>B.Tech CSE (IIIT Nuzvid, 2023)</small>
+</article>
+
+            <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
               <small>2+ years (Full Stack Development)</small>
