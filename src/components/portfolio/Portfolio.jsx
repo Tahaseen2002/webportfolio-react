@@ -11,6 +11,7 @@ const data = [
     image: Img5,
     title: 'chatbot created using dialogflow with some trained data',
     github: 'https://github.com/Tahaseen2002/dialogflow-full-code',
+    deployed:'',
 
   },
   {
