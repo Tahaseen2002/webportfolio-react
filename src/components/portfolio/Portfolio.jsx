@@ -18,7 +18,7 @@ const data = [
     image: Img3,
     title: 'personal web portfolio',
     github: 'https://github.com/Tahaseen2002/webportfolio-react',
-    deployed: '',
+    deployed: 'https://melodic-pithivier-29c4fe.netlify.app/',
 
   },
   {
