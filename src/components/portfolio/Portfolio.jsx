@@ -25,7 +25,7 @@ const data = [
   {
     id: 3,
     image: Img2,
-    title: 'Graphical password authentication using firebase',
+    title: 'Graphical password authentication',
     github: 'https://github.com/Tahaseen2002/react-Graphicalpassword',
     deployed:'https://graphical-password-authentication-tau.vercel.app/',
 
