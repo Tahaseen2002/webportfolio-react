@@ -1,4 +1,4 @@
-import React from 'react'
+limport React from 'react'
 import './portfolio.css';
 import Img1 from '../../assests/food-order.jpg';
 import Img2 from '../../assests/graphical.jpg';
@@ -53,7 +53,7 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
         {
-          data.map(({ id, image, title, github }) => {
+          data.map(({ id, image, title, github, deployed }) => {
             return (
               <article  key={id} className="portfolio__item">
                 <div className="portfolio__item-image">
