@@ -18,6 +18,7 @@ const data = [
     image: Img3,
     title: 'personal web portfolio',
     github: 'https://github.com/Tahaseen2002/webportfolio-react',
+    deployed: '',
 
   },
   {
@@ -25,6 +26,7 @@ const data = [
     image: Img2,
     title: 'Graphical password authentication using firebase',
     github: 'https://github.com/Tahaseen2002/react-Graphicalpassword',
+    deployed:'https://graphical-password-authentication-tau.vercel.app/',
 
   },
   {
@@ -32,6 +34,7 @@ const data = [
     image: Img4,
     title: 'project managment where we can add title description upload and delete',
     github: 'https://github.com/Tahaseen2002/project-managment-udemy',
+    deployed:'',
 
   },
   {
@@ -39,6 +42,7 @@ const data = [
     image: Img1,
     title: 'food delivery app ',
     github: 'https://github.com/Tahaseen2002/food-order-udemy',
+    deployed:'https://food-order-udemy.vercel.app/',
 
   },
 ]
@@ -57,6 +61,7 @@ const Portfolio = () => {
                 </div>
                 <h3>{title}</h3>
                 <a href={github} className="btn">Github</a>
+                <a href ={deployed} className = "btn">Link</a>
 
               </article>
             )
